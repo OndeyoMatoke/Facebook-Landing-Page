@@ -1,3 +1,3 @@
 # Facebook-Landing-Page
 
-Facebook landing page where you enter your details to log in.
+Facebook landing page, where you enter your log in details.
