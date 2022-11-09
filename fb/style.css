@@ -1,5 +1,17 @@
 
-	input{
+	
+         form{
+		background-color: white;
+		border-radius: 8px;
+		padding: 20px;
+		width: 260px;
+	}
+
+	body{
+		background-color: rgb(227, 228, 238);
+	}
+
+        input{
 		width: 250px;
 		padding: 10px 20px;
 		margin: 8px 0;
@@ -13,17 +25,17 @@
 		color: rgb(147, 192, 141);
 	}
 
+        input[type=login]{
+		background-color: rgb(21, 41, 218);
+		color: white;
+		text-align: center;
+	}
+
 	input[type=new]{
 		text-align: center;
 		width: 170px;	
 		background-color: rgb(54, 230, 39);
 		color: white;		
-	}
-
-	input[type=login]{
-		background-color: rgb(21, 41, 218);
-		color: white;
-		text-align: center;
 	}
 
 	input[type=forgot]{
@@ -53,16 +65,7 @@
 		color :rgb(21, 41, 218);
 		font-size: 60px;
 	}
-	form{
-		background-color: white;
-		border-radius: 8px;
-		padding: 20px;
-		width: 260px;
-	}
-
-	body{
-		background-color: rgb(227, 228, 238);
-	}
+	
 	.celeb {
 		text-decoration: none;
 	}
