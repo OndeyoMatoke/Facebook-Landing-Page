@@ -1,3 +1,3 @@
 # Facebook-Landing-Page
 
-Facebook landing page, where you enter your log in details.
+Ideal Facebook landing page built using HTML and CSS.
