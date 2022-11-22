@@ -1,0 +1,76 @@
+
+	body{
+		background-color: rgb(227, 228, 238);
+	}
+
+	form{
+		background-color: white;
+		border-radius: 8px;
+		padding: 20px;
+		width: 260px;
+	}
+	
+	input{
+		width: 250px;
+		padding: 10px 20px;
+		margin: 18px 0;
+		box-sizing: border-box;
+		border: solid 1px blue;
+		border-radius: 6px;
+		background-color: rgb(208, 231, 230);
+	}
+
+	input[type=text]{
+		color: rgb(147, 192, 141);
+	}
+
+	input[type=new]{
+		text-align: center;
+		width: 170px;	
+		background-color: rgb(54, 230, 39);
+		color: white;		
+	}
+
+	input[type=submit]{
+		background-color: rgb(21, 41, 218);
+		color: white;
+		text-align: center;
+	}
+
+	input[type=forgot]{
+		border: none;
+		background-color: white;
+		color: rgb(77, 85, 156);
+		h
+	}
+
+	input[type=login]:hover{
+		background-color: rgb(9, 21, 136);
+		transition: 1s;
+	}
+
+	input[type=new]:hover{
+		background-color: rgb(22, 135, 8);
+		transition: 1s;		
+	}
+
+	input[type=forgot]:hover{
+		text-decoration: underline;
+		transition: 1s;
+	}
+
+
+	h1{
+		color :rgb(21, 41, 218);
+		font-size: 60px;
+	}
+	
+
+	
+	.celeb {
+		text-decoration: none;
+	}
+
+	.celeb:hover {
+		text-decoration: underline;
+	}
